@@ -6,3 +6,4 @@ API Documentation: https://www.pelicanwireless.com/help-center/gettings-started2
 
 <p>you can turn any python into a exe with this commmand python -m PyInstaller --onefile pelican-wireless-v3.py</p>
 <p>pip install PyInstaller</p>
+<p> Example of api call wget "https://demo.officeclimatecontrol.net/api.cgi?username=pelicandemosite@gmail.com&password=pelican&request=get&object=Thermostat&selection=name:Lobby;&value=temperature;humidity;co2Level"</p>
