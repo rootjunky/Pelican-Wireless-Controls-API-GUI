@@ -4,5 +4,5 @@
 API Documentation: https://www.pelicanwireless.com/help-center/gettings-started2/
 <p></p>This tool is for WINDOWS ONLY as it uses some powershell commands.</p>
 
-<p>you can turn any python into a exe with this commmand python -m PyInstaller --noconsole --onefile pelican-wireless-v3.py</p>
+<p>you can turn any python into a exe with this commmand python -m PyInstaller --onefile pelican-wireless-v3.py</p>
 <p>pip install PyInstaller</p>
